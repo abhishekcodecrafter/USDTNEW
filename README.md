@@ -44,7 +44,6 @@
         - [x] Include Exchange History {History Icon}  
         - [ ] Select Type  
             - [x] <Bank>
-                
                 Click [here](https://i.ibb.co/WKRz6pP/Screenshot-20240505-024134.png) to View the Refrence.
                 - [ ] Select Bank Account Input {Include Add Bank Page}
                       Click [here](https://i.ibb.co/BKHCCnF/Screenshot-20240505-024517.png) to View the Refrence.
