@@ -1,17 +1,16 @@
 ## To-Do List
 
-- [ ] **Splash Screen**
-
-- [ ] **Login Page**  
+- [x] **Splash Screen**
+- [x] **Login Page**  
     - [x] Number Input  
     - [x] Button Submit
 
 - [ ] **Referral Page**  
-    - [x] Referral Input  
-    - [x] Next Button  
-    - [x] Skip Button
+    - [ ] Referral Input  
+    - [ ] Next Button  
+    - [ ] Skip Button
 
-- [ ] **Home Page** *(Trade Icon Active)*  
+- [x] **Home Page** *(Trade Icon Active)*  
     - [x] Profile  
         - [x] Include Settings Page  
     - [x] Refresh Icon  
@@ -31,13 +30,13 @@
                 - [x] Wallet Address Input  
                 - [x] Wallet Name Input  
                 - [x] Save Details Button  
-        - [x] Enter Exchange Amount Input  
-        - [x] Confirm Button  
+        - [ ] Enter Exchange Amount Input  
+        - [ ] Confirm Button  
     - [x] Exchange  
         - [x] Include Exchange History {History Icon}  
-        - [x] Select Type  
+        - [ ] Select Type  
             - [x] <Bank>  
-                - [x] Select Bank Account Input {Include Add Bank Page}  
+                - [ ] Select Bank Account Input {Include Add Bank Page}  
                     - [x] Click to Select Bank  
                     - [x] Add button to add Bank details  
                         - [x] Account number Input  
@@ -45,7 +44,7 @@
                         - [x] Account Name Input  
                         - [x] Bank Name Input  
                         - [x] Save Button  
-            - [x] <Cash>  
+            - [ ] <Cash>  
                 - [x] Person Name Input  
                 - [x] Drop note Number Input  
                 - [x] Address Input  
@@ -65,7 +64,7 @@
         - [x] Logout Button {Session DEAD}  
     - [x] Wallet Address Copy Icon  
         - [x] {Copy wallet Address}  
-    - [x] Add Transaction Password Button  
+    - [ ] Add Transaction Password Button  
         - [x] Popup Model Send sms to authorize mob num  
                 - [x] Cancel Button  
                 - [x] Reset Button  
@@ -73,23 +72,27 @@
         - [x] Transaction Pass Input  
         - [x] Re-enter Transaction Pass Input  
         - [x] Confirm Button  
-    - [x] Support Button  
+    - [ ] Support Button  
         - [x] {Redirect href support channel}  
-    - [x] Exchange history Button  
+    - [ ] Exchange history Button  
         - [x] {Redirect href exchange history page}  
-    - [x] Withdrawal history Button  
+    - [ ] Withdrawal history Button  
         - [x] {Redirect href Withdraw history page}  
-    - [x] Deposit history Button  
+    - [ ] Deposit history Button  
         - [x] {Redirect href Deposit history page}  
-    - [x] Commission history Button  
+    - [ ] Commission history Button  
         - [x] {Redirect href Commission history page}  
-    - [x] Invite Friends Button  
+    - [ ] Invite Friends Button  
         - [x] {Redirect href Bank History Page}  
-    - [x] Tutorial Videos Button  
+    - [ ] Tutorial Videos Button  
         - [x] {Redirect Tutorial Videos Page}  
         - [x] {Gonna Scrape that page}
 
 ## All Pages  
 - [x] Include Back Button  
 - [x] Wrap all of the pages for screen size larger than 500px inside a 500px container and for screens smaller than 500px make it responsive  
-- [x] Get Width accordingly but get height viewport max  
+- [x] Get Width accordingly discussed above but get height viewport max  
+
+---
+
+Things todo are ticked  
