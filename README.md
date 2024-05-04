@@ -1,22 +1,21 @@
 ## To-Do List
 
 - [x] **Splash Screen**
-  <img src="https://github.com/abhishekcodecrafter/USDTNEW/blob/main/Refrence-Images/Screenshot%202024-05-01%20153937.png" alt="Splash Image" width="300" height="200">
-
+  Click [here](https://i.ibb.co/n34BQMv/Screenshot-20240505-023727.png) to View the Refrence.
 
 - [x] **Login Page**
-      <img src="https://i.ibb.co/7zLd9CY/Screenshot-20240505-023744.png" alt="Login Image" width="300" height="200">
+      Click [here](https://i.ibb.co/7zLd9CY/Screenshot-20240505-023744.png) to View the Refrence.
     - [x] Number Input  
     - [x] Button Submit
 
 - [ ] **Referral Page**
-      <img src="https://i.ibb.co/dtgtbt7/Screenshot-20240505-023831.png" alt="Referral Image" width="300" height="200">
+      Click [here](https://i.ibb.co/dtgtbt7/Screenshot-20240505-023831.png) to View the Refrence.
     - [ ] Referral Input  
     - [ ] Next Button  
     - [ ] Skip Button
 
 - [x] **Home Page** *(Trade Icon Active)*
-      <img src="https://i.ibb.co/Jv4wsnL/Screenshot-20240505-023948.png" alt="Referral Image" width="300" height="200">
+      Click [here](https://i.ibb.co/Jv4wsnL/Screenshot-20240505-023948.png) to View the Refrence.
     - [x] Profile
         - [x] Include Settings Page
     - [x] Refresh Icon  
@@ -24,12 +23,12 @@
     - [x] Slider  
         - [x] Slide lock [1,1001,5001,∞]  
     - [x] Deposit
-          <img src="https://i.ibb.co/DkQvP9C/Screenshot-20240505-031156.png" alt="Referral Image" width="300" height="200">
+          Click [here](https://i.ibb.co/DkQvP9C/Screenshot-20240505-031156.png) to View the Refrence.
         - [x] Include Deposit History {History Icon}  
         - [x] Download Button {Qr Image Download}  
         - [x] Verify Button {include fetch api}  
     - [x] Withdraw
-          <img src="https://i.ibb.co/qgxPdJt/Screenshot-20240505-024128.png" alt="Referral Image" width="300" height="200">
+          Click [here](https://i.ibb.co/qgxPdJt/Screenshot-20240505-024128.png) to View the Refrence.
         - [x] Include Withdraw History {History Icon}  
         - [x] Select Wallet Address Input {Include Add Wallet Page}  
             - [x] Click to Select Wallet  
@@ -41,13 +40,14 @@
         - [ ] Enter Exchange Amount Input  
         - [ ] Confirm Button  
     - [x] Exchange
-          <img src="https://i.ibb.co/XVTy5tT/Screenshot-20240505-024145.png" alt="Referral Image" width="300" height="200">
+          Click [here](https://i.ibb.co/XVTy5tT/Screenshot-20240505-024145.png) to View the Refrence.
         - [x] Include Exchange History {History Icon}  
         - [ ] Select Type  
             - [x] <Bank>
-                <img src="https://i.ibb.co/WKRz6pP/Screenshot-20240505-024134.png" alt="Referral Image" width="300" height="200">
+                
+                Click [here](https://i.ibb.co/WKRz6pP/Screenshot-20240505-024134.png) to View the Refrence.
                 - [ ] Select Bank Account Input {Include Add Bank Page}
-                      <img src="https://i.ibb.co/BKHCCnF/Screenshot-20240505-024517.png" alt="Referral Image" width="300" height="200">
+                      Click [here](https://i.ibb.co/BKHCCnF/Screenshot-20240505-024517.png) to View the Refrence.
                     - [x] Click to Select Bank  
                     - [x] Add button to add Bank details
                         - [x] Account number Input  
@@ -56,7 +56,7 @@
                         - [x] Bank Name Input  
                         - [x] Save Button  
             - [ ] <Cash>
-                  <img src="https://i.ibb.co/XzZBxh7/Screenshot-20240505-024149.png" alt="Referral Image" width="300" height="200">
+                  Click [here](https://i.ibb.co/XzZBxh7/Screenshot-20240505-024149.png) to View the Refrence.
                 - [x] Person Name Input  
                 - [x] Drop note Number Input  
                 - [x] Address Input  
@@ -64,10 +64,10 @@
                 - [x] Confirm Button
 
 - [ ] **Settings Page** *(Info Icon Active)*
-      <img src="https://i.ibb.co/gM5p5MZ/Screenshot-20240505-023958.png" alt="Referral Image" width="300" height="200">
-      <img src="https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png" alt="Referral Image" width="300" height="200">
+      Click [here](https://i.ibb.co/gM5p5MZ/Screenshot-20240505-023958.png) to View the Refrence.
+      Click [here](https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png) to View the Refrence.
     - [x] Settings Icon
-          <img src="https://i.ibb.co/zbtNr0H/Screenshot-20240505-024019.png" alt="Referral Image" width="300" height="200">
+          Click [here](https://i.ibb.co/zbtNr0H/Screenshot-20240505-024019.png) to View the Refrence.
         - [x] Reset Transaction Password Button
             - [x] Popup Model Send sms to authorize mob num  
                 - [x] Cancel Button  
@@ -80,9 +80,9 @@
     - [x] Wallet Address Copy Icon  
         - [x] {Copy wallet Address}  
     - [ ] Add Transaction Password Button
-          <img src="https://i.ibb.co/p3c7yX3/Screenshot-20240505-024029.png" alt="Referral Image" width="300" height="200">
+          Click [here](https://i.ibb.co/p3c7yX3/Screenshot-20240505-024029.png) to View the Refrence.
         - [x] Popup Model Send sms to authorize mob num
-              <img src="https://i.ibb.co/3TDtRj0/Screenshot-20240505-024023.png" alt="Referral Image" width="300" height="200">
+              Click [here](https://i.ibb.co/3TDtRj0/Screenshot-20240505-024023.png) to View the Refrence.
                 - [x] Cancel Button  
                 - [x] Reset Button  
         - [x] Enter SMS OTP Input  
@@ -102,8 +102,8 @@
     - [ ] Invite Friends Button  
         - [x] {Redirect href Bank History Page}  
     - [ ] Tutorial Videos Button
-          <img src="https://i.ibb.co/v4PY7Mh/Screenshot-20240505-024102.png" alt="Referral Image" width="300" height="200">
-          <img src="https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png" alt="Referral Image" width="300" height="200">
+          Click [here](https://i.ibb.co/v4PY7Mh/Screenshot-20240505-024102.png) to View the Refrence.
+          Click [here](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png) to View the Refrence.
         - [x] {Redirect Tutorial Videos Page}  
         - [x] {Gonna Scrape that page}
 
