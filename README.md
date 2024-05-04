@@ -95,4 +95,4 @@
 
 ---
 
-Things todo are ticked  
+Things TODO are ticked  
