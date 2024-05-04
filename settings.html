@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px !important;
+        padding: 0px !important;
+        background-color: rgb(224, 221, 221);
+      }
+      #mobileScreen {
+        background-color: #f5f5f5;
+        height: 100vh;
+        width: 500px;
+        margin-top: 0px;
+        padding-top: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+      }
+      #mobileScreen > button {
+        width: 95%;
+        height: 50px;
+        border-radius: 5px;
+        background-color: rgb(131, 172, 131);
+        color: white;
+        font-weight: 700;
+        border-color: rgb(131, 172, 131);
+      }
+      #listcontainer {
+        background-color: white;
+        height: 420px;
+        width: 95%;
+        border-radius: 8px;
+      }
+      ul {
+        padding-left: 8px;
+        list-style: none;
+      }
+      li {
+        display: flex;
+        justify-content: space-between;
+        margin: 14px 0px;
+        padding: 10px 6px;
+        font-size: 16px;
+        font-weight: 700;
+        align-items: center;
+      }
+      li > div {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+      }
+      footer {
+        width: 100%;
+        background-color: white;
+        margin-top: auto;
+        display: flex;
+        justify-content: space-around;
+        padding: 20px 0px;
+        position: relative;
+      }
+      footer div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mobileScreen">
+      <button>Add Transaction Password</button>
+      <button>Support</button>
+      <div id="listcontainer">
+        <ul>
+          <li>
+            <div>
+              <img
+                src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-exchange-icon-png-image_4255640.jpg"
+                height="24px"
+                width="24px"
+              />
+              <span> Exchange History </span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+          <li>
+            <div>
+              <img
+                src="https://cdn-icons-png.flaticon.com/512/9976/9976760.png"
+                height="24px"
+                width="24px"
+              />
+              <span>Withdraw History</span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+          <li>
+            <div>
+              <img
+                src="https://w7.pngwing.com/pngs/917/678/png-transparent-tether-tether-coin-cryptocurrency-logo-bitcoin-crypto-currency-cryptocurrency-sign-3d-icon-thumbnail.png"
+                height="24px"
+                width="24px"
+                alt=""
+              />
+              <span>Deposit History</span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+          <li>
+            <div>
+              <img
+                src="https://cdn.iconscout.com/icon/premium/png-256-thumb/commission-2157222-1812060.png"
+                height="24px"
+                width="24px"
+                alt=""
+              />
+              <span>Commission History</span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+          <li>
+            <div>
+              <img
+                src="https://png.pngtree.com/png-vector/20190227/ourmid/pngtree-vector-bank-icon-png-image_708594.jpg"
+                height="24px"
+                width="24px"
+                alt=""
+              />
+              <span>Bank Account</span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+          <li>
+            <div>
+              <img
+                src="https://www.clipartmax.com/png/middle/344-3441460_yearbook-icon-invitation-card-icon-png.png"
+                alt=""
+                height="24px"
+                width="24px"
+              />
+              <span>Invite friends</span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+          <li>
+            <div>
+              <img
+                src="https://w7.pngwing.com/pngs/244/695/png-transparent-play-icon-video-player-information-play-icon-miscellaneous-angle-text-thumbnail.png"
+                alt=""
+                height="24px"
+                width="24px"
+              />
+              <span>Tutorial videos</span>
+            </div>
+            <svg
+              height="14px"
+              id="Layer_1"
+              style="enable-background: new 0 0 512 512"
+              version="1.1"
+              viewBox="0 0 512 512"
+              width="14px"
+              xml:space="preserve"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <polygon
+                points="160,128.4 192.3,96 352,256 352,256 352,256 192.3,416 160,383.6 287.3,256 "
+              />
+            </svg>
+          </li>
+        </ul>
+      </div>
+      <footer>
+        <div>
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeynPAQbHGGWB0Conh1Crh2Z15R0UnG17t8g&usqp=CAU"
+            alt=""
+            height="28px"
+            width="28px"
+          />
+          <span>Trade</span>
+        </div>
+        <div>
+          <img
+            src="https://png.pngtree.com/png-vector/20190120/ourmid/pngtree-info-vector-icon-png-image_470297.jpg"
+            alt=""
+            height="28px"
+            width="28px"
+          />
+          <span>Info</span>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

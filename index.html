@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive Layout</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e5e5e5; /* Full page color */
+  }
+  .container {
+    width: 500px; /* Fixed width for container */
+    height: 100vh; /* Height equal to device height */
+    max-width: 100%; /* Allow container to be responsive for smaller screens */
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ffffff; /* Container color */
+    padding: 20px;
+    border-radius: 10px; /* Optional: Adds rounded corners */
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Optional: Adds shadow */
+  }
+  /* Additional styles for your content */
+  input[type="tel"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Login with Phone</h1>
+    <input type="tel" placeholder="Enter phone number" id="phoneNumber">
+    <button onclick="login()">Login</button>
+  </div>
+
+  <!-- JavaScript for login functionality -->
+  <script>
+    function login() {
+      var phoneNumber = document.getElementById('phoneNumber').value;
+      // Add your login logic here
+      console.log('Logging in with phone number:', phoneNumber);
+      // Redirect or perform login action
+    }
+  </script>
+</body>
+</html>

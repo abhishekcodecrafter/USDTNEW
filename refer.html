@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Referral Form</title>
+  </head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      max-width: 400px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    form {
+      margin-top: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      color: #333;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    .buttons {
+      margin-top: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .next-button {
+      background-color: #0bc58d;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+
+    .skip-button {
+      background-color: #0bc58d;
+      color: #fff;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <h1>Add Referral User</h1>
+      <form action="#">
+        <label for="referral">Enter your Referral Code:</label>
+        <input
+          type="text"
+          id="referral"
+          name="referral"
+          placeholder="Enter referral code..."
+        />
+        <div class="buttons">
+          <button type="submit" class="next-button">Next</button>
+          <button type="button" class="skip-button">Skip</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
