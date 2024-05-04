@@ -1,10 +1,7 @@
 ## To-Do List
 
 ## Splash Screen
-<details>
-  <summary>Click to show the image</summary>
-  ![Splash Image](https://github.com/abhishekcodecrafter/USDTNEW/blob/main/Refrence-Images/Screenshot%202024-05-01%20153937.png)
-</details>
+Click [here](https://github.com/abhishekcodecrafter/USDTNEW/blob/main/Refrence-Images/Screenshot%202024-05-01%20153937.png) to show the image.
 
 - [x] **Login Page**  
     - [x] Number Input  
