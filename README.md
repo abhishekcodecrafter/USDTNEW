@@ -1,21 +1,21 @@
 ## To-Do List
 
 - [x] **Splash Screen**
-  Click [here](https://i.ibb.co/n34BQMv/Screenshot-20240505-023727.png) to View the Refrence.
+  [Refrence](https://i.ibb.co/n34BQMv/Screenshot-20240505-023727.png)
 
 - [x] **Login Page**
-      Click [here](https://i.ibb.co/7zLd9CY/Screenshot-20240505-023744.png) to View the Refrence.
+      [Refrence](https://i.ibb.co/7zLd9CY/Screenshot-20240505-023744.png) 
     - [x] Number Input  
     - [x] Button Submit
 
 - [ ] **Referral Page**
-      Click [here](https://i.ibb.co/dtgtbt7/Screenshot-20240505-023831.png) to View the Refrence.
+      [Refrence](https://i.ibb.co/dtgtbt7/Screenshot-20240505-023831.png) 
     - [ ] Referral Input  
     - [ ] Next Button  
     - [ ] Skip Button
 
 - [x] **Home Page** *(Trade Icon Active)*
-      Click [here](https://i.ibb.co/Jv4wsnL/Screenshot-20240505-023948.png) to View the Refrence.
+      [Refrence](https://i.ibb.co/Jv4wsnL/Screenshot-20240505-023948.png) 
     - [x] Profile
         - [x] Include Settings Page
     - [x] Refresh Icon  
@@ -23,12 +23,12 @@
     - [x] Slider  
         - [x] Slide lock [1,1001,5001,∞]  
     - [x] Deposit
-          Click [here](https://i.ibb.co/DkQvP9C/Screenshot-20240505-031156.png) to View the Refrence.
+          [Refrence](https://i.ibb.co/DkQvP9C/Screenshot-20240505-031156.png) 
         - [x] Include Deposit History {History Icon}  
         - [x] Download Button {Qr Image Download}  
         - [x] Verify Button {include fetch api}  
     - [x] Withdraw
-          Click [here](https://i.ibb.co/qgxPdJt/Screenshot-20240505-024128.png) to View the Refrence.
+          [Refrence](https://i.ibb.co/qgxPdJt/Screenshot-20240505-024128.png) 
         - [x] Include Withdraw History {History Icon}  
         - [x] Select Wallet Address Input {Include Add Wallet Page}  
             - [x] Click to Select Wallet  
@@ -40,13 +40,13 @@
         - [ ] Enter Exchange Amount Input  
         - [ ] Confirm Button  
     - [x] Exchange
-          Click [here](https://i.ibb.co/XVTy5tT/Screenshot-20240505-024145.png) to View the Refrence.
+          [Refrence](https://i.ibb.co/XVTy5tT/Screenshot-20240505-024145.png) 
         - [x] Include Exchange History {History Icon}  
         - [ ] Select Type  
             - [x] <Bank>
-                Click [here](https://i.ibb.co/WKRz6pP/Screenshot-20240505-024134.png) to View the Refrence.
+                [Refrence](https://i.ibb.co/WKRz6pP/Screenshot-20240505-024134.png) 
                 - [ ] Select Bank Account Input {Include Add Bank Page}
-                      Click [here](https://i.ibb.co/BKHCCnF/Screenshot-20240505-024517.png) to View the Refrence.
+                      [Refrence](https://i.ibb.co/BKHCCnF/Screenshot-20240505-024517.png) 
                     - [x] Click to Select Bank  
                     - [x] Add button to add Bank details
                         - [x] Account number Input  
@@ -55,7 +55,7 @@
                         - [x] Bank Name Input  
                         - [x] Save Button  
             - [ ] <Cash>
-                  Click [here](https://i.ibb.co/XzZBxh7/Screenshot-20240505-024149.png) to View the Refrence.
+                  [Refrence](https://i.ibb.co/XzZBxh7/Screenshot-20240505-024149.png) 
                 - [x] Person Name Input  
                 - [x] Drop note Number Input  
                 - [x] Address Input  
@@ -63,10 +63,10 @@
                 - [x] Confirm Button
 
 - [ ] **Settings Page** *(Info Icon Active)*
-      Click [here](https://i.ibb.co/gM5p5MZ/Screenshot-20240505-023958.png) to View the Refrence.
-      Click [here](https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png) to View the Refrence.
+      [Refrence](https://i.ibb.co/gM5p5MZ/Screenshot-20240505-023958.png) 
+      [Refrence](https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png) 
     - [x] Settings Icon
-          Click [here](https://i.ibb.co/zbtNr0H/Screenshot-20240505-024019.png) to View the Refrence.
+          [Refrence](https://i.ibb.co/zbtNr0H/Screenshot-20240505-024019.png) 
         - [x] Reset Transaction Password Button
             - [x] Popup Model Send sms to authorize mob num  
                 - [x] Cancel Button  
@@ -79,9 +79,9 @@
     - [x] Wallet Address Copy Icon  
         - [x] {Copy wallet Address}  
     - [ ] Add Transaction Password Button
-          Click [here](https://i.ibb.co/p3c7yX3/Screenshot-20240505-024029.png) to View the Refrence.
+          [Refrence](https://i.ibb.co/p3c7yX3/Screenshot-20240505-024029.png) 
         - [x] Popup Model Send sms to authorize mob num
-              Click [here](https://i.ibb.co/3TDtRj0/Screenshot-20240505-024023.png) to View the Refrence.
+              [Refrence](https://i.ibb.co/3TDtRj0/Screenshot-20240505-024023.png) 
                 - [x] Cancel Button  
                 - [x] Reset Button  
         - [x] Enter SMS OTP Input  
@@ -101,8 +101,8 @@
     - [ ] Invite Friends Button  
         - [x] {Redirect href Bank History Page}  
     - [ ] Tutorial Videos Button
-          Click [here](https://i.ibb.co/v4PY7Mh/Screenshot-20240505-024102.png) to View the Refrence.
-          Click [here](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png) to View the Refrence.
+          [Refrence](https://i.ibb.co/v4PY7Mh/Screenshot-20240505-024102.png) 
+          [Refrence](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png) 
         - [x] {Redirect Tutorial Videos Page}  
         - [x] {Gonna Scrape that page}
 
