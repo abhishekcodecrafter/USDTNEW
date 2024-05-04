@@ -63,8 +63,8 @@
                 - [x] Confirm Button
 
 - [ ] **Settings Page** *(Info Icon Active)*
-      [Refrence](https://i.ibb.co/gM5p5MZ/Screenshot-20240505-023958.png) 
-      [Refrence](https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png) 
+      [Ref](https://i.ibb.co/gM5p5MZ/Screenshot-20240505-023958.png) 
+      [rence](https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png) 
     - [x] Settings Icon
           [Refrence](https://i.ibb.co/zbtNr0H/Screenshot-20240505-024019.png) 
         - [x] Reset Transaction Password Button
@@ -101,8 +101,8 @@
     - [ ] Invite Friends Button  
         - [x] {Redirect href Bank History Page}  
     - [ ] Tutorial Videos Button
-          [Refrence](https://i.ibb.co/v4PY7Mh/Screenshot-20240505-024102.png) 
-          [Refrence](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png) 
+          [Ref](https://i.ibb.co/v4PY7Mh/Screenshot-20240505-024102.png) 
+          [rence](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png) 
         - [x] {Redirect Tutorial Videos Page}  
         - [x] {Gonna Scrape that page}
 
