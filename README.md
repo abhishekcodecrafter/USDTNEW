@@ -1,6 +1,6 @@
 ## To-Do List
 
-## Splash Screen
+- [x] **Splash Screen**
   <img src="https://github.com/abhishekcodecrafter/USDTNEW/blob/main/Refrence-Images/Screenshot%202024-05-01%20153937.png" alt="Splash Image" width="300" height="200">
 
 
