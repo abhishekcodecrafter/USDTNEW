@@ -112,6 +112,5 @@
 - [x] Get Width accordingly discussed above but get height viewport max  
 
 ---
-[![Image Alt Text](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png)](https://i.ibb.co/hWLk05s/Screenshot-20240505-024105.png){:target="_blank"}
 
 Things TODO are ticked
