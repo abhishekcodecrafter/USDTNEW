@@ -1,13 +1,9 @@
 ## To-Do List
 
 ## Splash Screen
-
-Click [here](#) to show the image.
-
 <details>
   <summary>Click to show the image</summary>
-
-  ![Splash Image](Refrence-Images/Screenshot 2024-05-01 153937.png)
+  ![Splash Image](https://github.com/abhishekcodecrafter/USDTNEW/blob/main/Refrence-Images/Screenshot%202024-05-01%20153937.png)
 </details>
 
 - [x] **Login Page**  
