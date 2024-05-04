@@ -1,10 +1,7 @@
 ## To-Do List
 
 ## Splash Screen
-<details>
-  <summary>Splash Image</summary>
-  ![Splash Image](https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D)
-</details>
+![Splash image](https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D)
 
 - [x] **Login Page**  
     - [x] Number Input  
