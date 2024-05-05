@@ -14,23 +14,23 @@
     - [ ] Next Button  
     - [ ] Skip Button
 
-- [x] **Home Page** *(Trade Icon Active)*  
+- [ ] **Home Page** *(Trade Icon Active)*  
     - <a href="https://i.ibb.co/Jv4wsnL/Screenshot-20240505-023948.png" target="_blank" rel="noopener">Reference</a>  
-    - [x] Profile  
-        - [x] Include Settings Page  
-    - [x] Refresh Icon  
-        - [x] Refresh the page  
-    - [x] Slider  
-        - [x] Slide lock [1,1001,5001,∞]  
+    - [ ] Profile  
+        - [ ] Include Settings Page  
+    - [ ] Refresh Icon  
+        - [ ] Refresh the page  
+    - [ ] Slider  
+        - [ ] Slide lock [1,1001,5001,∞]  
     - [x] Deposit  
         - <a href="https://i.ibb.co/DkQvP9C/Screenshot-20240505-031156.png" target="_blank" rel="noopener">Reference</a>  
         - [x] Include Deposit History {History Icon}  
         - [x] Download Button {Qr Image Download}  
         - [x] Verify Button {include fetch api}  
-    - [x] Withdraw  
+    - [ ] Withdraw  
         - <a href="https://i.ibb.co/qgxPdJt/Screenshot-20240505-024128.png" target="_blank" rel="noopener">Reference</a>  
-        - [x] Include Withdraw History {History Icon}  
-        - [x] Select Wallet Address Input {Include Add Wallet Page}  
+        - [ ] Include Withdraw History {History Icon}  
+        - [ ] Select Wallet Address Input {Include Add Wallet Page}  
             - [x] Click to Select Wallet  
             - [x] Add button to add Wallet details  
                 - [x] Network noneditable  
@@ -39,9 +39,9 @@
                 - [x] Save Details Button  
         - [ ] Enter Exchange Amount Input  
         - [ ] Confirm Button  
-    - [x] Exchange  
+    - [ ] Exchange  
         - <a href="https://i.ibb.co/XVTy5tT/Screenshot-20240505-024145.png" target="_blank" rel="noopener">Reference</a>  
-        - [x] Include Exchange History {History Icon}  
+        - [ ] Include Exchange History {History Icon}  
         - [ ] Select Type  
             - [x] &lt;Bank&gt;  
                 - <a href="https://i.ibb.co/WKRz6pP/Screenshot-20240505-024134.png" target="_blank" rel="noopener">Reference</a>  
@@ -67,14 +67,14 @@
     - <a href="https://i.ibb.co/xzgH3n3/Screenshot-20240505-024002.png" target="_blank" rel="noopener">Reference</a>  
     - [x] Settings Icon  
         - <a href="https://i.ibb.co/zbtNr0H/Screenshot-20240505-024019.png" target="_blank" rel="noopener">Reference</a>  
-        - [x] Reset Transaction Password Button  
+        - [ ] Reset Transaction Password Button  
             - [x] Popup Model Send sms to authorize mob num  
                 - [x] Cancel Button  
                 - [x] Reset Button  
-            - [x] Enter SMS OTP Input  
-            - [x] Transaction Pass Input  
-            - [x] Re-enter Transaction Pass Input  
-            - [x] Confirm Button  
+            - [ ] Enter SMS OTP Input  
+            - [ ] Transaction Pass Input  
+            - [ ] Re-enter Transaction Pass Input  
+            - [ ] Confirm Button  
         - [x] Logout Button {Session DEAD}  
     - [x] Wallet Address Copy Icon  
         - [x] {Copy wallet Address}  
@@ -84,10 +84,10 @@
         - [x] Popup Model Send sms to authorize mob num  
             - [x] Cancel Button  
             - [x] Reset Button  
-        - [x] Enter SMS OTP Input  
-        - [x] Transaction Pass Input  
-        - [x] Re-enter Transaction Pass Input  
-        - [x] Confirm Button  
+        - [ ] Enter SMS OTP Input  
+        - [ ] Transaction Pass Input  
+        - [ ] Re-enter Transaction Pass Input  
+        - [ ] Confirm Button  
     - [ ] Support Button  
         - [x] {Redirect href support channel}  
     - [ ] Exchange history Button  
